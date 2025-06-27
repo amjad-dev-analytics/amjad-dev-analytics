@@ -2,24 +2,17 @@
 ## I'm Amjad Baig
 
 ### 💼 Aspiring Data Analyst  
-Currently exploring:  
+Currently use:  
 - **Excel**, **Git**, **Python**, **SQL**  
 - Open to remote opportunities & collaborations  
 
-### 🛠️ Tools I’m Learning  
+### 🛠️ Tools I often use  
 - Microsoft Excel / Google Sheets  
 - Python for Data Analysis  
 - SQL Basics  
 - Git & GitHub  
-- Data Visualization (Power BI, Tableau – coming soon!)
-
----
-
-### 🎯 Current Focus  
-- Cisco **Data Analytics Essentials** course  
-- Building hands-on projects & GitHub portfolio  
-- Practicing typing and productivity skills
-
+- Data Visualization (Tableau)
+### Portfolio(https://github.com/amjad-dev-analytics/Portfolio)
 ---
 
 ### 🔗 Let’s Connect  
