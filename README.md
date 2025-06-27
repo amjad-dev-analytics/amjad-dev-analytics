@@ -3,7 +3,7 @@
 
 ### 💼 Aspiring Data Analyst  
 Currently use:  
-- **Excel**, **Git**, **Python**, **SQL**  
+- **Excel**, **Git**, **Python**, **SQL**, **Tableau**
 - Open to remote opportunities & collaborations  
 
 ### 🛠️ Tools I often use  
